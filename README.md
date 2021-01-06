@@ -1,6 +1,6 @@
 # webFlux
 
-Technologies I use; 
+Teknolojiler
 * Java 11
 * Spring Boot
 * Lombok
@@ -8,5 +8,3 @@ Technologies I use;
 * MongoDB
 * WebFlux
 
-
-A basic app I developed to stiffen my knowledge of mongoDb and webFlux
